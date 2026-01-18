@@ -1,0 +1,16 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  background: #d43b3b;
+
+}
+
+.nav{
+  background-color: rgb(24, 104, 104);
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
