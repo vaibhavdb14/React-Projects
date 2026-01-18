@@ -1,4 +1,4 @@
-## React Props 
+## React & Tailwind Css 
 
 - Learning how to use the css framework i.e. Tailwind in react in order to improve UI.
 - Tailwind Css Provides Vairous Classes for Desinging purpose.
