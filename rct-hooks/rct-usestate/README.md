@@ -7,7 +7,9 @@
 
 ## Project - ( Tic Tac Toi )
 
-- useState is used to handle the states of O and X and make decision 
+- useState is used to handle the states of O and X and make decision
+- winner logic + ui
+- useState is used to 9x grid using array and boolean for turns 
 
 
 ## 📸 Snapshot
