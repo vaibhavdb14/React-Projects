@@ -12,8 +12,7 @@ const App = () => {
   // Handlers here
   const submitHandler = (e) => {
     e.preventDefault();
-    console.log("form submitted");
-
+    
     const copyNotes = [...notes];
 
     copyNotes.push({
@@ -21,7 +20,6 @@ const App = () => {
       content,
     });
 
-    console.log(copyNotes);
 
     setNotes(copyNotes);
 
@@ -47,7 +45,6 @@ const App = () => {
           className="p-5 w-full border-2 font-medium outline-none rounded px-5 py-2"
           value={title}
           onChange={(e)=>{
-            console.log("input chal raha hai");
             setTitle(e.target.value);
           }}
         />
@@ -59,7 +56,6 @@ const App = () => {
           value={content}
           onChange={(e)=>{
             setContent(e.target.value);
-            console.log("textarea chal raha hai");
           }}
         />
 
