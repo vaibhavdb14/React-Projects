@@ -1,7 +1,7 @@
 ## Gallary Application 
 
 - Through this mini project . . . .
-
+---
 
 ### 📸 Snapshot :
 
